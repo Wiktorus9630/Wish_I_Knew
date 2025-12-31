@@ -19,7 +19,7 @@ except Exception as e:
 
 
 def play_video():
-    file_path = '/home/wiktorus/WISH I KNEW/WishIKnew.mp4'  
+    file_path = '/home/wiktorus/WISH I KNEW/WishIKnew.mp4'  #change the file path to ours
     if os.path.exists(file_path):
         os.makedirs('cache', exist_ok=True)
         videoplayer = Player(master=app)
