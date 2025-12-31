@@ -1,0 +1,15 @@
+cffi==2.0.0
+decorator==5.2.1
+ImageIO==2.37.2
+imageio-ffmpeg==0.6.0
+just_playback==0.1.8
+moviepy==2.2.1
+numpy==2.4.0
+pillow==12.0.0
+proglog==0.1.12
+pycparser==2.23
+pydub==0.25.1
+python-dotenv==1.2.1
+tinytag==2.2.0
+tkintervideo==0.0.2
+tqdm==4.67.1
